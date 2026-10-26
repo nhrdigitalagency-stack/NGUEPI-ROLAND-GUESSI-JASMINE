@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "title": "Bienvenue à la dot de Nguepi Roland & Guessi Jasmine",
+    "description": "Bienvenue à la dot de Nguepi Roland & Guessi Jasmine — Mariage traditionnel le 1er décembre 2026 à Bangangté, Ouest Cameroun."
+  },
+  "nav": {
+    "home": "Accueil",
+    "union": "Notre union",
+    "program": "Programme",
+    "practical": "Infos pratiques",
+    "memories": "Souvenirs",
+    "faq": "FAQ",
+    "rsvp": "Confirmer ma présence",
+    "sharePhotos": "Partager des photos",
+    "admin": "Gérer la page"
+  },
+  "intro": {
+    "kicker": "Faire-part d’invitation",
+    "subtitle": "Mariage traditionnel & Cérémonie de dot",
+    "openButton": "Ouvrir le faire-part",
+    "skipButton": "Accéder directement au site"
+  },
+  "hero": {
+    "kicker": "Invitation au mariage traditionnel",
+    "signature": "Deux familles, une nouvelle histoire.",
+    "dateDisplay": "1er décembre 2026",
+    "locationDisplay": "Bangangté · Ouest Cameroun",
+    "lead": "Avec joie et entourés de nos familles, nous vous invitons à partager une journée de tradition, de rencontre et de célébration à l’occasion de notre union.",
+    "primaryCta": "Confirmer ma présence",
+    "secondaryCta": "Découvrir le programme",
+    "shareBtn": "Partager l’invitation",
+    "linkCopied": "Lien de l’invitation copié"
+  },
+  "countdown": {
+    "daysLabel": "jours",
+    "hoursLabel": "heures",
+    "minutesLabel": "minutes",
+    "secondsLabel": "secondes",
+    "beforeBigDay": "avant le grand jour",
+    "todayMessage": "Aujourd’hui, nos familles se réunissent.",
+    "pastMessage": "Merci d’avoir partagé cette journée avec nous.",
+    "singularDay": "jour"
+  },
+  "announcements": {
+    "badge": "Information de l’organisation",
+    "categories": {
+      "access": "Précision d’accès",
+      "schedule": "Information horaire",
+      "organization": "Message de l’organisation",
+      "info": "Information"
+    }
+  },
+  "union": {
+    "kicker": "L’alliance & la transmission",
+    "title": "Une union, deux familles",
+    "text": "Au-delà de notre histoire, cette journée célèbre la rencontre de nos familles, la transmission de leurs valeurs et le bonheur de construire ensemble une nouvelle étape de notre vie.",
+    "pillars": {
+      "hospitalityTitle": "L’hospitalité en partage",
+      "hospitalityText": "Recevoir nos proches dans le village de la mariée à Bangangté est un honneur qui ancre notre engagement dans la chaleur familiale.",
+      "traditionTitle": "Le respect des usages",
+      "traditionText": "Chaque geste et chaque parole des aînés scellent l’estime mutuelle entre nos deux lignées dans un esprit de paix et de joie.",
+      "transmissionTitle": "Une nouvelle histoire",
+      "transmissionText": "De cette rencontre naît un chemin commun, porté par les bénédictions familiales et la bienveillance de ceux qui nous entourent."
+    },
+    "coupleWordTitle": "Le mot des mariés",
+    "parentsTitle": "Avec la bénédiction de nos familles",
+    "storyTitle": "Notre cheminement",
+    "decorCaption": "Scénographie d’inspiration traditionnelle et étoffes d’apparat"
+  },
+  "program": {
+    "kicker": "Déroulement de la cérémonie",
+    "title": "Les cinq temps de notre rencontre",
+    "scheduleNotice": "Les horaires détaillés seront précisés prochainement",
+    "contextDisclaimer": "Ce déroulement présente les grandes étapes prévues par nos deux familles pour cette journée à Bangangté.",
+    "expandDetails": "Voir les détails",
+    "collapseDetails": "Masquer les détails",
+    "steps": [
+      {
+        "number": "01",
+        "title": "L’accueil et les salutations",
+        "summary": "Arrivée de la délégation familiale et ouverture chaleureuse des échanges.",
+        "bullets": [
+          "Arrivée de la famille du marié au domicile de la mariée, dans une ambiance de chants, de danses et de joie.",
+          "Mot de bienvenue et ouverture des échanges par les porte-paroles des deux familles."
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Le jeu de la recherche de la mariée",
+        "summary": "Tradition ludique et joyeuse au cours de laquelle le marié reconnaît son épouse.",
+        "bullets": [
+          "Présentation de plusieurs femmes voilées ou enveloppées de pagnes.",
+          "Le marié est invité à reconnaître sa future épouse.",
+          "Selon le jeu organisé par les familles, une erreur peut donner lieu à une contribution symbolique avant de poursuivre."
+        ]
+      },
+      {
+        "number": "03",
+        "title": "La vérification et la remise des présents",
+        "summary": "Présentation respectueuse des présents familiaux et accord de la mariée.",
+        "bullets": [
+          "Vérification des présents apportés selon la liste convenue entre les familles.",
+          "Demande de l’accord de la mariée pour l’acceptation des présents.",
+          "Acclamations et réjouissances à l’annonce de son accord."
+        ]
+      },
+      {
+        "number": "04",
+        "title": "Les bénédictions et les conseils des aînés",
+        "summary": "Paroles de sagesse, transmission et vœux des parents et aînés.",
+        "bullets": [
+          "Moment symbolique prévu par les familles selon leurs usages.",
+          "Paroles, conseils et bénédictions des parents et des aînés."
+        ]
+      },
+      {
+        "number": "05",
+        "title": "La célébration et le festin",
+        "summary": "Partage fraternel, gastronomie, musiques et danses entre les deux familles.",
+        "bullets": [
+          "Repas partagé.",
+          "Musique et danses.",
+          "Séance photos avec les familles et les invités.",
+          "Réjouissances entre les deux familles."
+        ]
+      }
+    ]
+  },
+  "practical": {
+    "kicker": "Préparer votre venue",
+    "title": "Informations pratiques",
+    "subtitle": "Retrouvez ici les repères confirmés à ce jour. Cette section sera enrichie dès validation des derniers détails logistiques par les familles.",
+    "dateLabel": "Date de la cérémonie",
+    "dateValue": "Mardi 1er décembre 2026",
+    "localityLabel": "Localité",
+    "localityValue": "Bangangté, Région de l’Ouest, Cameroun",
+    "settingLabel": "Cadre de la réception",
+    "settingValue": "Village de la mariée",
+    "timeLabel": "Horaires",
+    "timePending": "À confirmer",
+    "villageLabel": "Village exact",
+    "villagePending": "À préciser par les familles",
+    "addressLabel": "Adresse & repères d’accès",
+    "addressPending": "Les indications routières détaillées et repères d’arrivée sont à venir.",
+    "dressCodeLabel": "Tenue souhaitée",
+    "parkingLabel": "Stationnement",
+    "accommodationLabel": "Suggestions d’hébergement",
+    "accessibilityLabel": "Accessibilité",
+    "contactLabel": "Contact de l’organisation",
+    "openDirectionsBtn": "Ouvrir l’itinéraire",
+    "addToCalendarBtn": "Ajouter à mon agenda (.ics)",
+    "calendarNote": "L’horaire exact restant à confirmer, l’événement est enregistré sur la journée entière du 1er décembre 2026."
+  },
+  "rsvp": {
+    "kicker": "Réponse souhaitée",
+    "title": "Confirmer ma présence",
+    "subtitle": "Afin de nous permettre d’organiser l’accueil et l’hospitalité dans les meilleures conditions, merci de transmettre votre réponse à l’organisation.",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "attendance": "Votre présence",
+    "attendanceYes": "Oui, avec joie",
+    "attendanceNo": "Non, je ne pourrai pas être présent(e)",
+    "attendanceMaybe": "Peut-être (à confirmer)",
+    "adultsCount": "Nombre d’adultes accompagnants",
+    "childrenCount": "Nombre d’enfants accompagnants",
+    "travelInfo": "Besoin d’informations pour le trajet (facultatif)",
+    "travelPlaceholder": "Ex. : Départ depuis Douala / Yaoundé, besoin de repères à l’entrée de Bangangté...",
+    "dietary": "Préférences ou restrictions alimentaires (facultatif)",
+    "dietaryPlaceholder": "Ex. : Allergies, régime particulier...",
+    "message": "Message pour les organisateurs (facultatif)",
+    "messagePlaceholder": "Votre mot ou précision pour l’organisation...",
+    "submitWhatsapp": "Continuer sur WhatsApp",
+    "copyFallback": "Copier le message",
+    "copiedSuccess": "Message copié dans le presse-papiers",
+    "disclaimer": "Votre réponse sera préparée dans WhatsApp. Appuyez sur Envoyer pour la transmettre à l’organisation.",
+    "organizationContactLabel": "Contact de l’organisation",
+    "errors": {
+      "firstNameRequired": "Veuillez renseigner votre prénom.",
+      "lastNameRequired": "Veuillez renseigner votre nom.",
+      "invalidCount": "Veuillez indiquer un nombre valide (0 ou plus)."
+    },
+    "whatsappTemplate": {
+      "intro": "Bonjour, voici ma réponse à l’invitation au mariage traditionnel de Nguepi Roland et Guessi Jasmine, le 1er décembre 2026 à Bangangté.",
+      "lastName": "Nom",
+      "firstName": "Prénom",
+      "attendance": "Présence",
+      "adults": "Adultes accompagnants",
+      "children": "Enfants accompagnants",
+      "travel": "Informations trajet",
+      "dietary": "Préférences alimentaires",
+      "message": "Message"
+    }
+  },
+  "coupleMessage": {
+    "kicker": "Livre d’or privé",
+    "title": "Adresser un mot aux mariés",
+    "subtitle": "Envoyez vos vœux ou une pensée personnelle pour Roland & Jasmine. Votre message est préparé sur WhatsApp et n’est pas publié publiquement sur le site.",
+    "firstName": "Votre prénom et nom",
+    "message": "Votre message pour les mariés",
+    "placeholder": "Écrivez ici vos vœux de bonheur...",
+    "sendBtn": "Préparer mon message sur WhatsApp",
+    "copyBtn": "Copier mon texte",
+    "errorRequired": "Veuillez saisir votre prénom et votre message.",
+    "whatsappHeader": "Bonjour, voici un message à l’attention des mariés Nguepi Roland et Guessi Jasmine :"
+  },
+  "gallery": {
+    "kicker": "Album familial & Regards croisés",
+    "titleBefore": "Les souvenirs de cette journée trouveront bientôt leur place ici.",
+    "titleAfter": "Vos regards, nos souvenirs.",
+    "subtitle": "Découvrez les photographies officielles et partagez les instants précieux capturés lors de notre cérémonie traditionnelle.",
+    "shareBtn": "Partager mes photos",
+    "viewAllBtn": "Explorer toute la galerie",
+    "officialBadge": "Photographie officielle",
+    "guestBy": "Partagé par",
+    "emptyState": "Aucune photo supplémentaire n’a encore été publiée.",
+    "loadingState": "Chargement de l’album familial...",
+    "errorState": "Impossible de charger la galerie pour le moment.",
+    "lockedTitle": "Album familial protégé",
+    "lockedSubtitle": "Cet album est réservé aux proches disposant du code d’accès invité communiqué par les familles.",
+    "accessCodePlaceholder": "Code d’accès invité",
+    "unlockBtn": "Déverrouiller l’album",
+    "invalidCode": "Code d’accès incorrect. Veuillez vérifier auprès de l’organisation.",
+    "closeLightbox": "Fermer (Échap)",
+    "prevPhoto": "Photo précédente",
+    "nextPhoto": "Photo suivante"
+  },
+  "upload": {
+    "kicker": "Contribution à l’album familial",
+    "title": "Partager vos photos de la cérémonie",
+    "subtitle": "Ajoutez vos clichés pour enrichir les souvenirs de Roland & Jasmine. Chaque photo est vérifiée par l’organisation avant d’apparaître dans la galerie.",
+    "backToGallery": "Retour à la galerie",
+    "closedNotice": "Le dépôt de nouvelles photos est actuellement fermé par l’organisation.",
+    "authorLabel": "Votre prénom ou pseudonyme",
+    "authorPlaceholder": "Ex. : Tante Marthe, Cousin Éric...",
+    "captionLabel": "Légende ou contexte de vos photos (facultatif)",
+    "captionPlaceholder": "Ex. : Arrivée de la délégation à Bangangté...",
+    "showAuthorLabel": "Autoriser l’affichage de mon prénom sous mes photos dans la galerie",
+    "consentLabel": "J’accepte que ces photos soient partagées dans l’album familial du mariage et je confirme respecter l’image des personnes photographiées.",
+    "dropzoneTitle": "Glissez-déposez vos photos ici ou cliquez pour parcourir",
+    "dropzoneSpecs": "Jusqu’à 10 photos par envoi · Maximum 10 Mo par fichier · Formats JPEG, PNG ou WebP",
+    "privacyNote": "Sécurité & vie privée : les métadonnées EXIF (dont les coordonnées GPS) sont automatiquement supprimées avant l’envoi.",
+    "submitBtn": "Envoyer mes photos",
+    "uploadingBtn": "Traitement et envoi en cours...",
+    "retryFailedBtn": "Réessayer les fichiers en échec",
+    "clearAllBtn": "Tout retirer",
+    "successBanner": "Photos reçues, en attente de validation",
+    "successDetail": "Merci ! Vos photos ont bien été transmises et seront visibles dans la galerie dès leur approbation par les organisateurs.",
+    "partialBanner": "Certaines photos ont été reçues (en attente de validation), mais d’autres n’ont pas pu être envoyées.",
+    "statusPending": "Prêt à l’envoi",
+    "statusProcessing": "Suppression EXIF & envoi...",
+    "statusSuccess": "Reçue (en attente de validation)",
+    "statusError": "Échec de l’envoi",
+    "errors": {
+      "authorRequired": "Veuillez indiquer votre prénom ou pseudonyme.",
+      "consentRequired": "Le consentement au partage dans l’album familial est obligatoire.",
+      "noFiles": "Veuillez sélectionner au moins une photo.",
+      "tooManyFiles": "Vous pouvez sélectionner au maximum 10 photos par envoi.",
+      "invalidFormat": "Format non supporté (utilisez JPEG, PNG ou WebP).",
+      "fileTooLarge": "Ce fichier dépasse la limite de 10 Mo."
+    }
+  },
+  "faq": {
+    "kicker": "Questions fréquentes",
+    "title": "Tout savoir pour nous rejoindre",
+    "items": [
+      {
+        "q": "Où se déroule la cérémonie ?",
+        "aDynamic": "venue"
+      },
+      {
+        "q": "À quelle heure faut-il arriver ?",
+        "aDynamic": "time"
+      },
+      {
+        "q": "Comment confirmer sa présence ?",
+        "a": "Utilisez le formulaire « Confirmer ma présence » sur cette page. Il prépare votre réponse complète sur WhatsApp à destination du Contact de l’organisation (+33 7 53 04 93 53)."
+      },
+      {
+        "q": "Peut-on venir accompagné ?",
+        "a": "Oui, vous pouvez indiquer le nombre d’adultes et d’enfants qui vous accompagnent directement dans le formulaire de confirmation afin que les familles prévoient l’accueil."
+      },
+      {
+        "q": "Y a-t-il une tenue conseillée ?",
+        "aDynamic": "dressCode"
+      },
+      {
+        "q": "Comment rejoindre le village ?",
+        "aDynamic": "directions"
+      },
+      {
+        "q": "Comment partager des photos ?",
+        "a": "Rendez-vous dans la rubrique « Souvenirs » puis cliquez sur « Partager mes photos ». Vos photos sont envoyées directement sur l’album du site (hors WhatsApp), nettoyées de leurs données GPS, et publiées après validation."
+      },
+      {
+        "q": "Qui contacter en cas de difficulté ?",
+        "a": "Vous pouvez joindre à tout moment le Contact de l’organisation sur WhatsApp au +33 7 53 04 93 53."
+      }
+    ]
+  },
+  "privacy": {
+    "kicker": "Transparence & Protection des données",
+    "title": "Notice de confidentialité",
+    "intro": "Ce site a été conçu exclusivement pour l’invitation au mariage traditionnel de Nguepi Roland et Guessi Jasmine et le partage de souvenirs entre proches.",
+    "sections": [
+      {
+        "title": "1. Aucune collecte publicitaire ni profilage",
+        "body": "Ce site n’utilise aucun cookie publicitaire, aucun traceur commercial et aucun système de reconnaissance faciale. Les réponses à l’invitation sont transmises directement par vos soins via WhatsApp au contact de l’organisation."
+      },
+      {
+        "title": "2. Protection des photographies et suppression EXIF",
+        "body": "Lorsqu’un invité dépose une photo pour l’album familial, l’image est ré-encodée avant transfert afin de supprimer automatiquement les métadonnées EXIF, y compris les coordonnées de géolocalisation GPS. Aucune donnée géographique des photos n’est conservée ni affichée."
+      },
+      {
+        "title": "3. Modération et contrôle d’accès",
+        "body": "Toutes les photographies envoyées par les invités portent le statut « en attente » et restent invisibles du public tant qu’elles n’ont pas été validées par les organisateurs. L’album peut être restreint par un code d’accès invité vérifié côté serveur, et l’indexation par les moteurs de recherche est désactivée."
+      },
+      {
+        "title": "4. Durée de conservation et droit de retrait",
+        "body": "Les photos de l’album familial sont conservées pendant une durée configurable par les mariés (par défaut 24 mois). Toute personne apparaissant sur une photographie peut demander sa modification ou son retrait immédiat en contactant l’organisation."
+      }
+    ],
+    "requestRemovalBtn": "Demander le retrait d’une photo via l’organisation"
+  },
+  "admin": {
+    "loginTitle": "Administration de l’invitation",
+    "loginSubtitle": "Espace réservé aux mariés et aux organisateurs pour modifier les informations du site (synchronisé avec Sanity CMS) et modérer les photos des invités.",
+    "usernameLabel": "Identifiant",
+    "passwordLabel": "Mot de passe",
+    "loginBtn": "Se connecter à l’espace de gestion",
+    "logoutBtn": "Se déconnecter",
+    "loginError": "Identifiant ou mot de passe incorrect.",
+    "tabs": {
+      "settings": "Informations du site",
+      "photos": "Modération photos",
+      "announcements": "Annonces dernière minute",
+      "qrcode": "QR Code de l’album"
+    }
+  },
+  "footer": {
+    "signature": "Deux familles, une nouvelle histoire.",
+    "dateLocation": "1er décembre 2026 · Bangangté, Ouest Cameroun",
+    "organizationContact": "Contact de l’organisation",
+    "privacyLink": "Confidentialité",
+    "managePageLink": "Gérer la page"
+  }
+}

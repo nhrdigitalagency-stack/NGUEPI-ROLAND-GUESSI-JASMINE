@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "title": "Nguepi Roland & Guessi Jasmine — Traditional Wedding Celebration",
+    "description": "Official invitation to the traditional marriage ceremony and presentation of family gifts of Nguepi Roland and Guessi Jasmine, on December 1, 2026 in Bangangté, West Region, Cameroon."
+  },
+  "nav": {
+    "home": "Home",
+    "union": "Our Union",
+    "program": "Program",
+    "practical": "Practical Info",
+    "memories": "Memories",
+    "faq": "FAQ",
+    "rsvp": "Confirm Attendance",
+    "sharePhotos": "Share Photos",
+    "admin": "Manage Page"
+  },
+  "intro": {
+    "kicker": "Ceremonial Invitation",
+    "subtitle": "Traditional marriage ceremony & presentation of family gifts",
+    "openButton": "Open the Invitation",
+    "skipButton": "Skip directly to site"
+  },
+  "hero": {
+    "kicker": "Traditional wedding celebration",
+    "signature": "Two families, a new story.",
+    "dateDisplay": "December 1, 2026",
+    "locationDisplay": "Bangangté · West Cameroon",
+    "lead": "With joy and surrounded by our families, we warmly invite you to share a day of tradition, fellowship, and celebration on the occasion of our union.",
+    "primaryCta": "Confirm Attendance",
+    "secondaryCta": "Discover the Program",
+    "shareBtn": "Share Invitation",
+    "linkCopied": "Invitation link copied"
+  },
+  "countdown": {
+    "daysLabel": "days",
+    "hoursLabel": "hours",
+    "minutesLabel": "minutes",
+    "secondsLabel": "seconds",
+    "beforeBigDay": "until the celebration",
+    "todayMessage": "Today, our families come together.",
+    "pastMessage": "Thank you for sharing this day with us.",
+    "singularDay": "day"
+  },
+  "announcements": {
+    "badge": "Organization Update",
+    "categories": {
+      "access": "Access Update",
+      "schedule": "Schedule Update",
+      "organization": "Note from the Organizers",
+      "info": "Information"
+    }
+  },
+  "union": {
+    "kicker": "Alliance & Heritage",
+    "title": "One union, two families",
+    "text": "Beyond our personal story, this day celebrates the meeting of our families, the passing down of their values, and the joy of building a new chapter of our lives together.",
+    "pillars": {
+      "hospitalityTitle": "Shared Hospitality",
+      "hospitalityText": "Welcoming our loved ones to the bride’s family village in Bangangté is an honor that roots our commitment in family warmth.",
+      "traditionTitle": "Respect for Tradition",
+      "traditionText": "Every gesture and word from the elders seals mutual esteem between our two lineages in a spirit of peace and joy.",
+      "transmissionTitle": "A New Chapter",
+      "transmissionText": "From this gathering springs a shared journey, carried by family blessings and the kindness of those who surround us."
+    },
+    "coupleWordTitle": "A Word from the Couple",
+    "parentsTitle": "With the Blessings of Our Families",
+    "storyTitle": "Our Journey",
+    "decorCaption": "Traditional ceremonial setting and heritage indigo textiles"
+  },
+  "program": {
+    "kicker": "Ceremony Flow",
+    "title": "The Five Moments of Our Gathering",
+    "scheduleNotice": "Detailed timings will be announced soon",
+    "contextDisclaimer": "This program outlines the main moments planned by our two families for this traditional marriage ceremony and presentation of family gifts in Bangangté.",
+    "expandDetails": "View details",
+    "collapseDetails": "Hide details",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Welcome and Greetings",
+        "summary": "Arrival of the groom’s family delegation and warm opening remarks.",
+        "bullets": [
+          "Arrival of the groom’s family at the bride’s family home, in a joyful atmosphere of songs and dances.",
+          "Words of welcome and opening exchanges led by the spokespersons of both families."
+        ]
+      },
+      {
+        "number": "02",
+        "title": "The Playful Search for the Bride",
+        "summary": "A joyful custom in which the groom is invited to recognize his bride.",
+        "bullets": [
+          "Presentation of several veiled women or women wrapped in traditional cloths.",
+          "The groom is invited to recognize his future bride.",
+          "According to the playful custom organized by the families, a mistake may call for a symbolic token before continuing."
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Presentation and Acceptance of Family Gifts",
+        "summary": "Respectful presentation of the agreed family gifts and the bride’s consent.",
+        "bullets": [
+          "Review of the symbolic gifts brought in accordance with the custom agreed upon between the two families.",
+          "Request for the bride’s consent to accept the gifts honoring the union.",
+          "Joyful applause and celebration upon the announcement of her acceptance."
+        ]
+      },
+      {
+        "number": "04",
+        "title": "Blessings and Counsel from the Elders",
+        "summary": "Words of wisdom, heritage transmission, and blessings from parents and elders.",
+        "bullets": [
+          "Symbolic moment arranged by the families according to their customs.",
+          "Spoken counsel, wishes, and blessings offered by the parents and elders."
+        ]
+      },
+      {
+        "number": "05",
+        "title": "Celebration and Feast",
+        "summary": "Shared banquet, music, dancing, and fellowship uniting both families.",
+        "bullets": [
+          "Shared celebratory meal.",
+          "Music and traditional dances.",
+          "Photographs with families and guests.",
+          "Festivities bringing both families together."
+        ]
+      }
+    ]
+  },
+  "practical": {
+    "kicker": "Planning Your Visit",
+    "title": "Practical Information",
+    "subtitle": "Find below the confirmed details to date. Additional directions and timings will be updated as soon as finalized by the families.",
+    "dateLabel": "Ceremony Date",
+    "dateValue": "Tuesday, December 1, 2026",
+    "localityLabel": "Locality",
+    "localityValue": "Bangangté, West Region, Cameroon",
+    "settingLabel": "Venue Setting",
+    "settingValue": "Bride’s family village",
+    "timeLabel": "Schedule",
+    "timePending": "To be confirmed",
+    "villageLabel": "Exact Village",
+    "villagePending": "To be specified by the families",
+    "addressLabel": "Address & Landmarks",
+    "addressPending": "Detailed road directions and arrival landmarks will be provided soon.",
+    "dressCodeLabel": "Dress Code",
+    "parkingLabel": "Parking",
+    "accommodationLabel": "Accommodation Suggestions",
+    "accessibilityLabel": "Accessibility",
+    "contactLabel": "Organization Contact",
+    "openDirectionsBtn": "Open Directions",
+    "addToCalendarBtn": "Add to Calendar (.ics)",
+    "calendarNote": "As the exact start time is yet to be confirmed, the event will be saved as an all-day event for December 1, 2026."
+  },
+  "rsvp": {
+    "kicker": "RSVP",
+    "title": "Confirm My Attendance",
+    "subtitle": "To help our families prepare a warm welcome and hospitality, please send your response to the organizing team.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "attendance": "Your Attendance",
+    "attendanceYes": "Yes, with pleasure",
+    "attendanceNo": "No, I will not be able to attend",
+    "attendanceMaybe": "Maybe (to be confirmed)",
+    "adultsCount": "Number of accompanying adults",
+    "childrenCount": "Number of accompanying children",
+    "travelInfo": "Need travel or route information? (optional)",
+    "travelPlaceholder": "E.g., Traveling from Douala / Yaoundé, need landmarks entering Bangangté...",
+    "dietary": "Dietary preferences or restrictions (optional)",
+    "dietaryPlaceholder": "E.g., Allergies, specific diet...",
+    "message": "Note for the organizers (optional)",
+    "messagePlaceholder": "Any additional detail for the organizing team...",
+    "submitWhatsapp": "Continue on WhatsApp",
+    "copyFallback": "Copy Message",
+    "copiedSuccess": "Message copied to clipboard",
+    "disclaimer": "Your response will be prepared in WhatsApp. Please press Send in WhatsApp to transmit it to the organization.",
+    "organizationContactLabel": "Organization Contact",
+    "errors": {
+      "firstNameRequired": "Please enter your first name.",
+      "lastNameRequired": "Please enter your last name.",
+      "invalidCount": "Please enter a valid number (0 or more)."
+    },
+    "whatsappTemplate": {
+      "intro": "Hello, here is my RSVP for the traditional wedding celebration of Nguepi Roland and Guessi Jasmine on December 1, 2026 in Bangangté.",
+      "lastName": "Last Name",
+      "firstName": "First Name",
+      "attendance": "Attendance",
+      "adults": "Accompanying Adults",
+      "children": "Accompanying Children",
+      "travel": "Travel Info",
+      "dietary": "Dietary Preferences",
+      "message": "Message"
+    }
+  },
+  "coupleMessage": {
+    "kicker": "Private Guestbook",
+    "title": "Send a Note to the Couple",
+    "subtitle": "Share your warm wishes or a personal message for Roland & Jasmine. Your note is prepared for WhatsApp and is not automatically published on the website.",
+    "firstName": "Your Name",
+    "message": "Your message for the couple",
+    "placeholder": "Write your wishes here...",
+    "sendBtn": "Prepare Message on WhatsApp",
+    "copyBtn": "Copy Text",
+    "errorRequired": "Please enter your name and message.",
+    "whatsappHeader": "Hello, here is a personal message for Nguepi Roland and Guessi Jasmine:"
+  },
+  "gallery": {
+    "kicker": "Family Album & Shared Memories",
+    "titleBefore": "Memories from this special day will soon find their place here.",
+    "titleAfter": "Your perspectives, our memories.",
+    "subtitle": "Explore the official portraits and share precious moments captured during our traditional celebration.",
+    "shareBtn": "Share My Photos",
+    "viewAllBtn": "Explore Full Gallery",
+    "officialBadge": "Official Portrait",
+    "guestBy": "Shared by",
+    "emptyState": "No additional photos have been published yet.",
+    "loadingState": "Loading family album...",
+    "errorState": "Unable to load the gallery at the moment.",
+    "lockedTitle": "Protected Family Album",
+    "lockedSubtitle": "This album is reserved for loved ones with the guest access code shared by the families.",
+    "accessCodePlaceholder": "Guest access code",
+    "unlockBtn": "Unlock Album",
+    "invalidCode": "Invalid access code. Please check with the organizers.",
+    "closeLightbox": "Close (Esc)",
+    "prevPhoto": "Previous photo",
+    "nextPhoto": "Next photo"
+  },
+  "upload": {
+    "kicker": "Contribute to the Family Album",
+    "title": "Share Your Ceremony Photos",
+    "subtitle": "Upload your photos to enrich Roland & Jasmine’s family album. Every photo is reviewed by the organizers before appearing in the gallery.",
+    "backToGallery": "Back to Gallery",
+    "closedNotice": "Photo submissions are currently closed by the organizers.",
+    "authorLabel": "Your First Name or Nickname",
+    "authorPlaceholder": "E.g., Aunt Marthe, Cousin Eric...",
+    "captionLabel": "Caption or context for your photos (optional)",
+    "captionPlaceholder": "E.g., Arrival of the family delegation in Bangangté...",
+    "showAuthorLabel": "Allow my name to be displayed below my photos in the gallery",
+    "consentLabel": "I agree to share these photos in the family wedding album and confirm that they respect the dignity of the people pictured.",
+    "dropzoneTitle": "Drag & drop your photos here, or click to browse",
+    "dropzoneSpecs": "Up to 10 photos per upload · Max 10 MB per file · JPEG, PNG, or WebP",
+    "privacyNote": "Privacy & Security: EXIF metadata (including GPS location coordinates) is automatically stripped prior to upload.",
+    "submitBtn": "Upload My Photos",
+    "uploadingBtn": "Processing & uploading...",
+    "retryFailedBtn": "Retry Failed Files",
+    "clearAllBtn": "Clear All",
+    "successBanner": "Photos received, awaiting moderation",
+    "successDetail": "Thank you! Your photos have been securely uploaded and will appear in the gallery once approved by the organizers.",
+    "partialBanner": "Some photos were received (awaiting moderation), while others could not be uploaded.",
+    "statusPending": "Ready to upload",
+    "statusProcessing": "Stripping EXIF & uploading...",
+    "statusSuccess": "Received (awaiting approval)",
+    "statusError": "Upload failed",
+    "errors": {
+      "authorRequired": "Please enter your name or nickname.",
+      "consentRequired": "Consent to share in the family album is required.",
+      "noFiles": "Please select at least one photo.",
+      "tooManyFiles": "You may select up to 10 photos per batch.",
+      "invalidFormat": "Unsupported format (please use JPEG, PNG, or WebP).",
+      "fileTooLarge": "This file exceeds the 10 MB limit."
+    }
+  },
+  "faq": {
+    "kicker": "Frequently Asked Questions",
+    "title": "Everything You Need to Know",
+    "items": [
+      {
+        "q": "Where does the ceremony take place?",
+        "aDynamic": "venue"
+      },
+      {
+        "q": "What time should guests arrive?",
+        "aDynamic": "time"
+      },
+      {
+        "q": "How do I confirm my attendance?",
+        "a": "Use the 'Confirm My Attendance' form on this page. It prepares your complete RSVP message in WhatsApp for the Organization Contact (+33 7 53 04 93 53)."
+      },
+      {
+        "q": "Can I bring accompanying guests?",
+        "a": "Yes, you can specify the number of accompanying adults and children directly in the RSVP form so the families can plan accordingly."
+      },
+      {
+        "q": "Is there a recommended dress code?",
+        "aDynamic": "dressCode"
+      },
+      {
+        "q": "How do I reach the village?",
+        "aDynamic": "directions"
+      },
+      {
+        "q": "How can I share photos?",
+        "a": "Visit the 'Memories' section and click 'Share My Photos'. Your photos are uploaded directly to the website’s storage (not via WhatsApp), stripped of GPS metadata, and published after organizer approval."
+      },
+      {
+        "q": "Who should I contact if I need assistance?",
+        "a": "You can reach the Organization Contact via WhatsApp at +33 7 53 04 93 53."
+      }
+    ]
+  },
+  "privacy": {
+    "kicker": "Transparency & Data Protection",
+    "title": "Privacy Notice",
+    "intro": "This website was created exclusively for the traditional wedding celebration of Nguepi Roland and Guessi Jasmine and for sharing memories among family and friends.",
+    "sections": [
+      {
+        "title": "1. No Advertising Tracking or Profiling",
+        "body": "This website uses no advertising cookies, commercial trackers, or facial recognition. RSVP responses are sent directly by you via WhatsApp to the organizing contact."
+      },
+      {
+        "title": "2. Photo Protection & Automatic EXIF Removal",
+        "body": "When a guest uploads a photo to the family album, the image is processed to strip EXIF metadata—including GPS coordinates—before storage. No photo geolocation data is stored or displayed."
+      },
+      {
+        "title": "3. Moderation & Access Control",
+        "body": "All guest-submitted photos remain in 'pending' status and are invisible to the public until approved by the organizers. The album can be protected by a server-verified guest access code and is excluded from search engine indexing."
+      },
+      {
+        "title": "4. Retention Period & Removal Requests",
+        "body": "Family album photos are retained for a duration configurable by the couple (24 months by default). Anyone pictured in a photo may request its modification or immediate removal by contacting the organizers."
+      }
+    ],
+    "requestRemovalBtn": "Request Photo Removal via the Organizers"
+  },
+  "admin": {
+    "loginTitle": "Wedding Page Management",
+    "loginSubtitle": "Reserved for the couple and organizers to update event details (synced with Sanity CMS) and moderate guest photos.",
+    "usernameLabel": "Username",
+    "passwordLabel": "Password",
+    "loginBtn": "Sign in to Management Portal",
+    "logoutBtn": "Sign out",
+    "loginError": "Invalid username or password.",
+    "tabs": {
+      "settings": "Event Details",
+      "photos": "Photo Moderation",
+      "announcements": "Last-Minute Updates",
+      "qrcode": "Album QR Code"
+    }
+  },
+  "footer": {
+    "signature": "Two families, a new story.",
+    "dateLocation": "December 1, 2026 · Bangangté, West Cameroon",
+    "organizationContact": "Organization Contact",
+    "privacyLink": "Privacy",
+    "managePageLink": "Manage Page"
+  }
+}
